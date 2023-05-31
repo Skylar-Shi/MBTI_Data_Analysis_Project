@@ -1,3 +1,10 @@
+Runtime Instruction:
+To run our code for EDA (Emoji Exploration Section),
+1. Upload the Symbols folder to Google Drive
+2. Run the notebook on the Google Colab
+3. Edit the font path in the generateWordCloud function
+(Example path: /content/drive/MyDrive/Symbola/Symbola.otf)
+
 This is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
